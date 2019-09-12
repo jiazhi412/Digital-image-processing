@@ -4,6 +4,7 @@
 USC EE569
 
 HW1:  
+--
     A. Image Demosaicing and Histogram Manipulation:  
         1. Bilinear Demosaicing  
         2. MHC Demosaicing  
@@ -16,6 +17,7 @@ HW1:
         5. Median Filter  
         6. BM3D Filter  
 HW2:  
+--
     A. Edge Detection:   
         1. Sobel Edge Detector  
         2. Canny Edge Detector  
@@ -29,6 +31,7 @@ HW2:
         6. Separable Error Diffusion  
         7. MBVQ-based Error diffusion  
 HW3:   
+--
     A. Geometric Modification:  
         1. Geometric Transformation  
         2. Spatial Warping  
@@ -40,6 +43,7 @@ HW3:
         4. Defect Detection and Correction  
         5. Object Analysis  
 HW4:   
+--
     A. Texture Analysis:  
         1. Texture Classification  
         2. Texture Segmentation  
@@ -47,9 +51,11 @@ HW4:
         1. SIFT: Image Matchhing  
         2. Bag of Words  
 HW5:   
+--
     A. Train LeNet-5 on MNIST Dataset  
     B. Apply Trained Network to Negative Images  
 
 HW6:  
+--
     A. Image Reconstructions from Saab Coefficients  
     B. Handwritten Digits Recognition Using Ensembles of Feedforward Design  
