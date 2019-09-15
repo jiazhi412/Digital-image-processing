@@ -1,0 +1,8 @@
+﻿  Main.cpp
+g:\569\homework\hw4\code\homework4\homework4\main.cpp(170): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  364 of 1453 functions (25.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    93 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Homework4.vcxproj -> G:\569\Homework\HW4\Code\Homework4\x64\Release\Homework4.exe
